@@ -24,4 +24,4 @@ Cada material didactico se puede visualizar al seleccionar una leccion.
 No te preocupes, en Bit-IO learning nos dedicamos a hacer accesible la educacion para 
 todos en cualquier circunstancia, es por ello que puedes descargar las lecciones en PDF 
 para que no te pierdas de ninguna leccion y continues tu camino para ser un experto en 
-la electrónica.
+la programación.
