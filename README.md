@@ -2,7 +2,11 @@
 
 ## ¿Por qué es importante la programación? 🤖
 
+Aprender programación es importante porque desarrolla habilidades esenciales para resolver problemas, automatizar tareas, y crear soluciones tecnológicas en diversas áreas. Facilita la innovación, abre oportunidades laborales en un mundo cada vez más digital y potencia la capacidad de entender y contribuir al avance tecnológico en campos como inteligencia artificial, robótica, análisis de datos y desarrollo de software.
+
 ## ¿Qué encontraras en este taller? 😯🤓
+
+En este espacio, aprenderas a programar en python desde 0, en otras palabras, no necesitaras conocimeintos previos, ya que veremos las variables, funciones, condicionales, bucles, estructura de datos y vision artificial, cada leccion contara con ejemplos y ejercicios y su respuesta para que facilitar la curva de aprendizaje
 
 ## Metodo de aprendizaje.
 
