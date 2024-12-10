@@ -36,4 +36,7 @@ Si estas familiarizado con alguno, lo puedes usar sin problemas, solo que es muy
 
 ## Siguiente capitulo 
 
-En este capitulo hemos aprendido que es python, para que es útil, como instalarlo y la herramienta que mas usaremos, el editor de texto, en el siguiente capitulo crearemos nuestro primer código y aprenderemos los tipos de datos
+En este capitulo hemos aprendido que es python, para que es útil, como instalarlo y la herramienta que mas usaremos, el editor de texto, en el siguiente capitulo crearemos nuestro primer código y aprenderemos los tipos de datos. 
+
+
+[Más información](https://github.com "Ir a GitHub")
